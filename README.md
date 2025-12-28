@@ -1,4 +1,4 @@
-# ⛓️ Roadmap: Blockchain Developer (Web3 & Core)
+# ⛓️ Roadmap: Blockchain Developer
 
 Этот репозиторий документирует мой путь изучения технологии Блокчейн.
 
